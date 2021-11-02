@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">budjet</string>
+    <string name="welcome">WELCOME TO THIS APPLICATION</string>
+    <string name="entrez_votre_eamil">Entrer votre eamil</string>
+    <string name="todo">TODO</string>
+    <string name="entrez_votre_password">entrez_votre_password</string>
+    <string name="Entrez_votre_password">Entrez_votre_password</string>
+    <string name="Entrez_votre_nom">Entrez_votre_Nom</string>
+</resources>

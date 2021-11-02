@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "944342899928",
+    "project_id": "budjet-app-49a55",
+    "storage_bucket": "budjet-app-49a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944342899928:android:cb6f27cf623664e31a4bad",
+        "android_client_info": {
+          "package_name": "com.example.budjet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944342899928-7ili393u6vrath6l9l8l01ajv8nc0dg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.budjet",
+            "certificate_hash": "dc73b882b2de2676fc7861f6b711b333e38f59cd"
+          }
+        },
+        {
+          "client_id": "944342899928-mdrbuvehqele0btjmfmvuifbt2tbafr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZEocsMy_XM5bSdDU9wDU8Ager_uMXeQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944342899928-mdrbuvehqele0btjmfmvuifbt2tbafr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
